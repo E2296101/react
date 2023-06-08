@@ -1,0 +1,53 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "nom": "Iphone 11",
+      "description": "inpne 11 pro max , 256 Go de stockage",
+      "prix": 985,
+      "categorie": "Smartphone"
+    },
+    {
+      "id": 2,
+      "nom": "Iphone 14",
+      "description": "inpne 14 pro max , 256 Go de stockage",
+      "prix": 1400,
+      "categorie": "Smartphone"
+    },
+    {
+      "id": 3,
+      "nom": "Iphone 10",
+      "description": "inpne 10 pro max , 256 Go de stockage",
+      "prix": 250,
+      "categorie": "Smartphone"
+    },
+    {
+      "id": 4,
+      "nom": "Samsung S20",
+      "description": "inpne S20 , 64 Go de stockage",
+      "prix": 950,
+      "categorie": "Smartphone"
+    },
+    {
+      "id": 5,
+      "nom": "Xiaomi Redmi note 12",
+      "description": "Xiaomi Redmi note 12  256 Go de stockage",
+      "prix": 350,
+      "categorie": "Smartphone"
+    },
+    {
+      "id": 6,
+      "nom": "Samsung oled 46 pouces",
+      "description": "Samsung oled 46 pouces ",
+      "prix": 600,
+      "categorie": "Électroménagers"
+    },
+    {
+      "id": 7,
+      "nom": "Casseroule Tefal",
+      "description": "bon produit",
+      "prix": 600,
+      "categorie": "Vaisselles"
+    }
+  ]
+}
