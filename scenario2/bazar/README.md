@@ -15,3 +15,6 @@ fonctionnalités mais maintenant vous allez le tester avec un serveur JSON
 une courte vidéo de votre écran (max 3 min) avec le projet en cours
 d'exécution sur votre environnement local. Présentez toutes les pages et
 fonctions au fur et à mesure que le côté serveur change.
+
+### liens :
+- Vidéo démonstrative scénario 02 (Serveur json) : (https://screenrec.com/share/AC7KPWFoqb)

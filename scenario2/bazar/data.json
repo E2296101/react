@@ -1,20 +1,6 @@
 {
   "produits": [
     {
-      "id": 1,
-      "nom": "Iphone 11",
-      "description": "inpne 11 pro max , 256 Go de stockage",
-      "prix": 985,
-      "categorie": "Smartphone"
-    },
-    {
-      "id": 6,
-      "nom": "Samsung oled 46 pouces",
-      "description": "Samsung oled 46 pouces ",
-      "prix": 600,
-      "categorie": "Électroménagers"
-    },
-    {
       "id": 7,
       "nom": "XIAOMI",
       "description": "Redmi note 12, 128 Go",
@@ -23,9 +9,9 @@
     },
     {
       "id": 9,
-      "nom": "Foure LG",
-      "description": "Foure à induction, plaque en céramique",
-      "prix": "2549.99",
+      "nom": "Foure LG a induction",
+      "description": "economie d'energie",
+      "prix": "3000.99",
       "categorie": "Électroménagers"
     }
   ]

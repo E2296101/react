@@ -13,3 +13,5 @@ Le premier scénario vous permettra de gérer tous les produits comme une
 variable côté client. Le deuxième scénario consiste à utiliser un serveur JSON
 pour tester le REST avec un serveur externe (simulé).
 
+### liens :
+- Vidéo démonstrative scénario 01 (https://screenrec.com/share/VW94EuKIze)
