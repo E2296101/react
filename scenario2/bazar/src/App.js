@@ -14,11 +14,11 @@ const App = () => {
   const [produits, setProduits] = useState([]);
 
  useEffect(() => {
-   const getTasks = async () => {
+   const getProduits = async () => {
      const listeProduits= await fetchProduits();
      setProduits(listeProduits);
    };
-   getTasks();
+   getProduits();
  }, []); 
 
  console.log(produits);
